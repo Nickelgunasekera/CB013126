@@ -1,0 +1,217 @@
+.bodyy{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(142, 143, 145) ;
+    background-attachment: fixed;
+}
+#logo{
+    width: 150px;
+    float:left;
+    margin-top: 0px;
+    
+ }
+ .navbar{
+    margin: 0px;
+    padding: 10px; 
+    list-style-type: none;   
+    overflow: hidden;
+    
+   
+ }
+ .navbar li{
+    float:left
+ }
+ 
+ .mainimg{
+    width: 1000px;
+    margin-left: 400px;
+    margin-top: 0px;
+    
+    
+ } 
+ #sec2{
+    margin-top: 70px;
+    margin-bottom: 40px;
+ }
+.navbar li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    padding: 10px 30px;
+    border: 3px solid rgb(252, 245, 245);
+    border-radius: 100px;
+    display: block;
+    margin: 20px 20px;
+
+
+ }
+ .navbar a:hover{
+    color: black;
+    background-color: rgb(170, 170, 170);
+    border-radius: 100px;
+    border: 3px solid rgb(68, 57, 57);
+   
+ }
+ .navbar li .dropdown {
+    display: none;
+    position: absolute;
+   
+
+ }
+ .dropdown{
+    list-style: none;
+    
+ }
+ .navbar li .dropdown li{
+    float: none;
+    display: list-item;
+    position: relative;
+    
+ }
+ .navbar li ul.dropdown li a {
+    padding: 11px 19px;
+    color: rgb(250, 242, 242);
+    
+ }
+ .navbar li:hover .dropdown{
+    display:block;
+ }
+ .divh{
+    padding-bottom: 200px;
+    background-image: url(images/elephants_header-2000x750.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+ }
+ .h1main{
+    font-size: 160px;
+    display: block;
+    text-align: center;
+     margin-top: 160px;
+     color: rgb(217, 222, 224);
+     animation:bounce 5s infinite;
+     
+    
+ }
+ @keyframes bounce{
+    0%, 20%, 50%, 80%, 100%{
+        transform: translateY(0);
+    }
+    40%{
+        transform: translateY(-40px);
+    }
+    60%{
+        transform:translateY(-40px);
+    }
+}
+.seck{
+    margin:0px 100px;
+    
+}
+
+.ul3{
+    font-size: 31px;
+    color: aliceblue;
+}
+.mainimg{
+    width: 440px;
+    height: 310px;
+    float:left;
+    margin-left: 0px;
+    margin-right: 90px;
+    border-radius: 40px;
+    margin-bottom:0px ;
+    
+
+}
+.diva{
+    margin:60px;
+}
+section{
+    margin-top:60px;
+    margin-left:45px;
+    margin-right:35px;
+    margin-bottom: 20px;
+}
+.p1{
+    font-size: 20px;
+    color: rgb(18, 18, 19);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 6px;
+    margin-left:50px;
+    margin-right: 50px; 
+}
+.hr1{
+    height: 5px;
+    background-color: black;
+}
+.his{
+    display: block;
+    padding-bottom:0px ;
+    margin-bottom: 0px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(52, 59, 65);
+    
+}
+.mainimg:hover{
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+@media screen and (max-width:1000px) {
+    .mainimg{
+        float: none;
+        width: 700px; 
+        height: 500px;   
+        margin-left:80px;  
+    }
+    .navbar li{
+        float:none;
+    }
+    #logo{
+        float: none;
+    }
+    .navbar li a{
+       text-align: center;
+       
+    }
+    .diva{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .seck{
+        margin-left: 1px;
+        margin-right: 2px;
+    }
+    .his{
+        text-align: center;
+    }
+    .mainimg{
+        width:800px
+       
+        
+    }
+    .dropdown{
+        width: 600px;
+    }
+    .mainimg{
+        margin-top: 50px;
+    }
+    #sec{
+        margin-bottom: 50px;
+    }
+
+    
+    
+    
+    
+}
+
+.footer{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    background-color: black;
+    justify-content: center;
+}
