@@ -21,6 +21,7 @@ let passwordlocal=localStorage.getItem('password');
 
  if(passwordlocal==='admin'){
    para.innerHTML+=newcon;
+     console.log(newcon)
  }else{
     para.innerHTML+=`You aren't an Admin , Only Admins are allowed to SEE the Newsletter subscriptions`;
  }
@@ -39,8 +40,8 @@ let passwordlocal=localStorage.getItem('password');
 //    para.innerHTML+=getitem1;
 //    console.log("para camed")
 // }else{
-//     para.innerHTML+= `You aren't an Admin , Only Admins are allowed to SEE the Newsletter subscriptions`;
-// }
+  // para.innerHTML+= `You aren't an Admin , Only Admins are allowed to SEE the Newsletter subscriptions`;
+ //}
 
 
 
