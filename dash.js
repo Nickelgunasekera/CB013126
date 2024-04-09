@@ -19,7 +19,7 @@ let passwordlocal=localStorage.getItem('password');
  let para=document.querySelector('.hell');
  let newcon=`${getitem1}`;
 
- if(passwordlocal==='admin'){
+ if(passwordlocal=='admin'){
    para.innerHTML+=newcon;
      console.log(newcon)
  }else{
