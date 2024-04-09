@@ -240,16 +240,4 @@ newbutton.addEventListener('click',function(){
 })
 
 
-let btn=document.querySelector('.btn2');
-btn.addEventListener('click',function(){
-  window.location.href='edticontent.html';
-})
 
-let username = document.querySelector("#username").value;
-let password = document.querySelector("#password").value;
-
-if(password==='admin' || password=='user'){
-  loginbtn.classList.add('hidden')
-}else{
-  console.log("eroor");
-}
