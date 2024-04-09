@@ -25,7 +25,8 @@ let passwordlocal=localStorage.getItem('password');
  }else{
     para.innerHTML+=`You aren't an Admin , Only Admins are allowed to SEE the Newsletter subscriptions`;
  }
-//console.log("hello wordl");
+console.log("hello wordl");
+console.log(getitem1);
 
 // let getitem1=localStorage.getItem('subsdata1');
 // console.log(getitem1);
