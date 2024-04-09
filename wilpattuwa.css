@@ -1,3 +1,37 @@
+.btn1{
+    padding:10px 20px;
+    background-color: rgb(152, 208, 69);
+    color: white;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: bos-shadow 0.3s ease-in-out;
+    
+    margin-top: 20px;
+    float: left;
+    width: 130px;
+    height: 60px;
+    font-size: large;
+    
+}
+.btn1{
+    margin-bottom: 0px;
+    margin-right: px;
+    
+}
+.btn1:hover{
+    box-shadow: 0 0 20px rgb(161, 212, 78);
+}
+.newbutton{
+    background-color: rgb(255, 234, 127);
+    color:black;
+    height: 50px;
+    width:300px;
+    border-radius: 40px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
 .body1{
     margin:0px;
     padding: 0px;
