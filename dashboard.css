@@ -1,0 +1,73 @@
+body,h1,h2,h3,p,ul,li{
+    margin: 0;
+    padding:0;
+    
+}
+body{
+    background-color: rgb(218, 223, 221);
+}
+
+header{
+    background-color: rgb(135, 148, 146);
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(167, 174, 174);
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display:inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color:rgb(35, 35, 74);
+    text-decoration: none;
+}
+section{
+    padding:20px;
+}
+
+#nk{
+    color: black;
+    font-size: 49px;
+    text-align:center;
+    padding-top: 0px;
+}
+#img{
+   width:200px;
+   align-content: center;
+   margin-bottom: 0px;
+}
+.close-modal {
+    position: absolute;
+    top: 1.2rem;
+    right: 2rem;
+    font-size: 5rem;
+    color: #333;
+    cursor: pointer;
+    border: none;
+    background: none;
+  }
+  .white-box {
+    background-color: #ffffff; /* White background */
+    padding: 20px; /* Adjust padding as needed */
+    margin-top: 30px; /* Adjust margin as needed */
+    border-radius: 8px; /* Optional: Rounded corners */
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Optional: Add a subtle shadow */
+    width:50%;
+    height: 130px;
+}
+.pki{
+    margin-top: 50px;
+}
+

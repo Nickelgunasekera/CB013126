@@ -1,0 +1,23 @@
+{
+    "users":[
+        {"name":"nickel",
+        "password":"admin",
+        "role":"admin",
+        "email":"admin@.com"},
+
+        {"name":"Dhulvin",
+        "password":"user",
+        "role":"site_user",
+        "email":"Dhulivin@site.com"},
+
+        {"name":"Pasindu",
+        "password":"user",
+        "role":"site_user",
+        "email":"Pasindu@site.com"},
+
+        {"name":"Senesh",
+        "password":"user",
+        "role":"user_site",
+        "email":"Senesh@site.com"}
+    ]
+}

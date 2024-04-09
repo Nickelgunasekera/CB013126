@@ -1,0 +1,82 @@
+{
+    "Title":"Sri lankan wildlife",
+    "header":{
+        "image":"images/lolo_5-removebg-preview.png",
+        "nav":[
+            {"text":"home" , "url":"index.html"},
+            {"text":"Introduction" , "url":"introduction.html"},
+            {"text":"Department" , "url":"department.html"},
+            {"text":"Leopard" , "url":"Srileo.html"},
+            {"text":"Animals" , "url":"animals.html"},
+
+            {"text":"yala Park" , "url":"yala.html"},
+            {"text":"Wilpattu Park" , "url":"wilpattuwa.html"}
+              ],
+    "heading": "Animals in Srilanka"
+    },
+
+    "body":{
+        "sectionone":[
+            {"heading":"Red SLender LOris"},
+            {"image":"images/red-slender-loris-flickr-joachim-s-m-ller-cc_orig.jpg"},
+            {"paragraphone":"The red slender loris (Loris tardigradus ) is a small, nocturnal strepsirrhine primate native to the rainforests of Sri Lanka.This is No. 6 of the 10 focal species and No. 22 of the 100 EDGE mammal species worldwide considered the most evolutionarily distinct and globally endangered."},
+            {"paragraphTwo":"Lorises are slow climbing, nocturnal animals with large distinctive eyes. They are adapted to an arboreal lifestyle (a life among trees), which is assisted by skeletal specialisations such as highly mobile joints, large humerus, strong bones, equally long fore and hind limbs with super strong digits, and anatomical modifications such as a shortened tip of the ulna to the dimensions of a styloid process."}
+        ],
+
+        "sectiontwo":[
+            {"heading":"Toque macaque"},
+            {"image":"images/toque-macaques.jpg"},
+            {"paragraphone":"This smallest macaque is a native Sri Lankan species with a golden-brown fur. The local people call Toque Macaque the “Rilawa”. The most characteristic feature of this primate is the toque-like swirl of hair on its head top."},
+            {"paragraphTwo":"As a matter of fact, their physiological characteristics vary greatly, depending on climatic conditions. Thus, populations in cooler climate exhibit thick, dark brown coat as well as relatively short limbs and tails. Meanwhile, those inhabiting lowland rainforests typically display reddish or golden fur and longer bonnets."}
+        ],
+
+        "sectionthree":[
+         
+                {"heading":"purple faced Funger"},
+                {"image":"images/PURPLE-FACED LANGUR.jpg"},
+                {"paragraphone":"Purple-faced langurs (Semnopithecus vetulus), also known as purple-faced leaf monkeys, are endemic to Sri Lanka. In Sinhala, one of the official languages of Sri Lanka, they are known as “the black monkey of Sri Lanka.” Located near the southern tip of India, the tropical island of Sri Lanka is teeming in biodiversity."},
+                {"paragraphTwo":"This is thanks in part to its varying landscapes and climates. The perimeter is dusted with sandy beaches and the valleys and rivers of the plains make up a large portion of the island. In the south-central area lies the highlands, also known as the wet zone, with its mountain ridges and tall rainforests—this is where purple-faced langurs call home."}
+        ],
+
+        "sectionfour":[
+            {"heading":"Sri lankan Jungle Fowl"},
+            {"image":"images/sri-lankan-junglefowl-sri-lanka-945x630.jpg"},
+            {"paragraphone":"The Sri Lankan junglefowl (Gallus lafayettii sometimes spelled Gallus lafayetii), also known as the Ceylon junglefowl or Lafayette's junglefowl, is a member of the Galliformes bird order which is endemic to Sri Lanka, where it is the national bird."},
+            {"paragraphTwo":"It is closely related to the red junglefowl (G. gallus), the wild junglefowl from which the chicken was domesticated. However, a whole-genome molecular study rather show that Sri Lankan junglefowl and grey junglefowl are genetically closer species than the red junglefowl."}
+        ],
+
+        "sectionfive":[
+            {"heading":"Sri lankan sloth Bear"},
+            {"image":"images/sloth-bear-side.jpg"},
+            {"paragraphone":"Bear! The very word may strike terror in the hearts of some, but unknown to many, this wonderful creature is on the brink of extinction in Sri Lanka, with its numbers very drastically reduced, its habitats decimated, and the hand of man firmly turned against him out of abject fear."},
+            {"paragraphTwo":"Many men of the jungle have told me they would rather face the charge of an elephant, as there is still some chance of escape. Whereas with the terrible “close quarters charge” of the sloth bear (Melursus ursinus), there is none. Add that to the distinct possibility of being blinded, disfigured, or losing a limb or two, the reasons for fear and animosity toward this creature are very clear."}
+
+        ],
+
+        "heading":"Top rated Wild Life Location",
+
+         "sectionsix":[
+            {"heading":"Wilpattu national park"},
+            {"image":"images/animal wilpattuwa.jpg"},
+            {"paragraph":"Experience Sri Lanka’s most elusive wildlife in the vast seclusion of Wilpattu National Park"},
+            {"paragraphtwo":"Occupying a vast swathe of land bordering the copper-sand beaches of the north west coast,"},
+            {"paragraphthree":">the ancient ruins of the Cultural Triangle and the Northern Province this is Sri Lanka’s largest and oldest game reserve. Home to myriad endemic species."},
+            {"button":"wilpattuwa.html", "type":"click here to read more"}
+         ],
+
+         "sectionseven":[
+            {"heading":"yala national park"},
+            {"image":"images/Entrance_Sign_-_Yala_NP_20190705073422.jpg"},
+            {"paragraph":"Yala National Park (otherwise known as Ruhuna National Park) is one of Sri Lanka’s must-sees."},
+            {"paragraphtwo":"Located to the south east of the island, this exceptional game reserve is Sri Lanka’s most popular for very good reason."},
+            {"paragraphthree":"Thought to be home to the greatest density of leopards per square kilometre in the world."},
+        
+            {"button":"yala.html", "type":"click here to read more"}
+         ]    
+    },
+
+    "footer":[
+        {"paragraph":"&copy; 2024 Srilankan WildlLife. All rights reserved."}
+    ]
+  
+}

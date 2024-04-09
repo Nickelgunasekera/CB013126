@@ -1,0 +1,86 @@
+
+{
+    "head":{
+        "title":"Srilankan Wildlife",
+        "Url":"home.css",
+        "icon":"images/favicon.ico.png"
+    },
+
+    "body":{
+        "header":{
+            "logo":"images/lolo_5-removebg-preview.png","url":"index.html",
+        
+
+        "nav":{
+            "ul":{
+                "home":"index.html",
+                "intro":"introduction.html",
+                "department":"department.html",
+                "srileo":"srileo.html",
+                "animals":"animals.html",
+
+                "dropdown":[
+                    {"yala":"yala.html"},
+                    {"wilpattu":"wilpattuwa.html"}
+                ]
+            },
+        
+        "heading":"introduction to Wildlife"
+
+        }
+        },
+
+        "section":{
+            "class":"sec2",
+            "id":"udawala",
+            "h2class":"h2",
+            "imageclass":"img2",
+            "paragraphclass":"anipt",
+            "iclass":"iframe2",
+            "heading":"Udawalawe National Park",
+            "image":"images/Udawalawe National Park Private Safari Tour from Bentota.jpg",
+            "paragraph":" With herds of elephants, wild buffalos, sambars and spotted deer, and giant squirrels, this Sri Lankan national park is one of the nation's finest. In fact, for elephant watching, Uda Walawe often surpasses many of the most famous East African national parks.",
+            "paragraph1":"The park, which centres on the 308.2-sq-km Uda Walawe Reservoir, is lightly vegetated, but it has a stark beauty, and the lack of dense vegetation makes game watching easy.",
+            "iframe":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15857.48321526931!2d80.876319!3d6.474628800000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae408ff88887e79%3A0xaf12e79ffbd980d7!2sUdawalawe%20National%20Park!5e0!3m2!1sen!2slk!4v1702309336950!5m2!1sen!2slk"
+
+        },
+
+        "section1":{
+            "heading":"Hortan Plains",
+            "image":"images/Horton-plains-national-park-1-scaled.jpg",
+            "paragraph":"Horton Plains is a beautiful, stark world with excellent hikes in the shadows of Sri Lanka’s second- and third-highest mountains, Kirigalpotta (2395m) and Totapola (2357m).",
+            "paragraph1":"Horton Plains is a beautiful, stark world with excellent hikes in the shadows of Sri Lanka’s second- and third-highest mountains, Kirigalpotta (2395m) and Totapola (2357m). The ‘plains’ form an undulating plateau over 2000m high, covered by wild grasslands and interspersed with patches of thick forest, rocky outcrops, filigree waterfalls and misty lakes.",
+            "iframe":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15846.696154043711!2d80.8023333!3d6.809446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3882edb4b78ef%3A0xcebca89153777249!2sHorton%20Plains%20National%20Park!5e0!3m2!1sen!2slk!4v1702656796184!5m2!1sen!2slk"
+        },
+
+        "section2":{
+            "heading":"Pinnawala Elephant Orphange",
+            "image":"images/the-orphanage-was-founded.jpg",
+            "paragraph":"In 1978 the orphanage was taken over by the National Zoological Gardens from the Department of Wildlife. A captive breeding program was launched in 1982.",
+            "paragraph1":"Since the inception of the program over 20 elephants have been bred here. The aim of the orphanage is to simulate a natural habitat to these elephants.",
+            "paragraph2":"However, there are some exceptions: the elephants are taken to the river twice a day for a bath, and all the babies less than three years of age are still bottle fed by the mahouts and volunteers.",
+            "iframe":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15829.884230649806!2d80.388855!3d7.3008545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae315c83a2c0273%3A0xa5744b525ada1e6c!2sPinnawala%20Elephant%20Orphanage!5e0!3m2!1sen!2slk!4v1702657550927!5m2!1sen!2slk"
+
+        },
+
+        "section3":{
+            "heading":"udawattekele Royal Forest",
+            "image":"images/udawattakele-royal-forest-park-udawatta-kele-kandy-sanctuary-historic-reserve-hill-ridge-city-sri-lanka-106784419.jpg",
+            "paragraph":"Once known as the Uda Wasala Watta (or the “garden above the royal palace” in the Sinhalese language), the sanctuary is home to a huge variety of flora and fauna. It was once a pleasure garden for Kandyan royalty, and was reserved for the exclusive use of the royal family.",
+            "paragraph1":"They would use the pond within the forest to bathe in, and the public was forbidden from entering its grounds. It was designated a forest reserve in 1856, before officially becoming a sanctuary in 1938.",
+            "iframe":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15829.954176192576!2d80.6424033!3d7.2988782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae367cd62a0e9bb%3A0x36fa6b55cd89eec3!2sUdawatta%20Kele%20Sanctuary!5e0!3m2!1sen!2slk!4v1702660456070!5m2!1sen!2slk"
+        },
+
+        "section4":{
+            "heading":"Kaudulla national park",
+            "image":"images/01.jpg",
+            "paragraph":"Kaudulla National Park is a national park on the island of Sri Lanka located 197 kilometres (122 mi) away from the largest city, Colombo. It was designated a national park on April 1, 2002, becoming the 15th such area on the island.",
+            "paragraph1":"In the 2004–2005 season more than 10,000 people visited the National Park, generating an income of Rs.100,000 from entrance fees.",
+            "iframe":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15857.48321526931!2d80.876319!3d6.474628800000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae408ff88887e79%3A0xaf12e79ffbd980d7!2sUdawalawe%20National%20Park!5e0!3m2!1sen!2slk!4v1702309336950!5m2!1sen!2slk"
+        }
+    },
+    "footer":{
+        "paragraph":"&copy; 2024 Srilankan WildlLife. All rights reserved."
+
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "Title":"Sri lankan wildlife",
+    "header":{
+        "image":"images/lolo_5-removebg-preview.png",
+        "nav":[
+            {"text":"home" , "url":"index.html"},
+            {"text":"Introduction" , "url":"introduction.html"},
+            {"text":"Department" , "url":"department.html"},
+            {"text":"Leopard" , "url":"Srileo.html"},
+            {"text":"Animals" , "url":"animals.html"},
+
+            {"text":"yala Park" , "url":"yala.html"},
+            {"text":"Wilpattu Park" , "url":"wilpattuwa.html"}
+              ],
+    "heading": "Animals in Srilanka"
+    },
+
+    "section_one":[
+        {"image":"images/sri-lanka-yala-national-park-sri-lanka1-1024x768.jpg"},
+        {"paragraph_one":"Horton-plains-national-park-1-scaledExperience Sri Lanka’s most elusive wildlife in the vast seclusion of Wilpattu National Park. Occupying a vast swathe of land bordering the copper-sand beaches of the north west coast, the ancient ruins of the Cultural"},
+        {"paragraph_two":"Triangle and the Northern Province, this is Sri Lanka’s largest and oldest game reserve."},
+        {"paragraph_three":"Home to myriad endemic species, the park fosters sensational bird life, Asian Elephants, Sri Lankan Leopards, Sri Lankan Sloth Bears."}
+    ],
+
+    "section_two":[
+        {"heading":"HISTORY OF YALA"},
+        {"image":"images/yala history.webp"},
+        {"paragraph_one":"Yala is one of Sri Lanka’s oldest national parks and was designated a wildlife sanctuary as far back as 1900 though it wasn’t until 1938 that it was established as a national park. Right in the heart of Yala sits the Buddhist temple Sithulpawa, and this former monastery is thought to date back 2,000 years"},
+        {"paragraph_two":"At one time, the monastery is thought to have housed 12,000 inhabitants, and today, it remains an important temple visited by pilgrims across Sri Lanka. Other significant cultural sites in the vicinity include Kataragama and Magul Maha Vihara"}
+
+    ],
+
+    "section_three":[
+        {"heading":"GUIDE TO YALA"},
+        {"image":"images/yala-feature.jpeg"},
+        {"paragraph_one":"Yala comprises five blocks, and while most game drives take place in Block I (where wildlife sightings are arguably the most rewarding), game drives can and do occur in other blocks within the reserve."},
+        {"paragraph_two":"This is much more likely in September and October (at the height of the dry season) when Block I is often closed to visitors for around six weeks to allow animals unrestricted freedom of movement."},
+        {"paragraph_three":"Chena Huts is very conveniently located near the main Palutapana entrance of Yala, and it takes just minutes to reach the ticket desk from the hotel."}
+
+    ],
+
+    "section_four":[
+        {"heading":"VISIITNG YALA NATIONAL PARK"},
+        {"paragraph_one":"Chena Huts offers superb game drives into Wilpattu National Park hosted by an in-house naturalist."},
+        {"paragraph_two":"Packages include a tracker, Yala National Park entrance fees, on-board snacks and refreshments, wildlife viewing equipment, and a seafront post-safari drinks reception."},
+        {"paragraph_three":"The location of the hotel so close to Yala’s main entrance and within the buffer zone of the reserve, means that it takes next to no time to enter the park."}
+    ],
+
+    "footer":[
+        {"paragrpah":"&copy; 2024 Srilankan WildlLife. All rights reserved."}
+    ]
+}

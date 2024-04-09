@@ -1,0 +1,81 @@
+{
+
+    "Title":"Sri lankan wildlife",
+    "header":{
+        "image":"images/lolo_5-removebg-preview.png",
+        "nav":[
+            {"text":"home" , "url":"index.html"},
+            {"text":"Introduction" , "url":"introduction.html"},
+            {"text":"Department" , "url":"department.html"},
+            {"text":"Leopard" , "url":"Srileo.html"},
+            {"text":"Animals" , "url":"animals.html"},
+
+            {"text":"yala Park" , "url":"yala.html"},
+            {"text":"Wilpattu Park" , "url":"wilpattuwa.html"}
+              ],
+    "heading": "Leopard In Srilanka"
+
+    },
+
+    "body":{
+     "sectionone":[
+
+    {"Heading":"Three Places where Leopard can Appear"},
+     {"Subheading":"In yala national park"},
+     {"image":"images/leopard yala.jpg"},
+     {"paragraphone":"Located in the southeastern part of Sri Lanka, Yala National Park is considered to be one of the best places in the world to see leopards in the wild.The park is home to a large population of these big cats, as well as a wide variety of other animals including elephants, sloth bears, and crocodiles"},
+     {"paragraphtwo":"The park’s varied landscapes, including dense forests, grasslands, and coastal lagoons, provide the perfect habitat for leopards to thrive.Yala is divided into several blocks, with Block 1 being the most popular for leopard sightings."},
+     {"paragraphthree":"While exploring Yala National Park on a safari, you may spot leopards as they skillfully stalk their prey, rest on tree branches, or traverse rocky terrains.Yala National Park (otherwise known as Ruhuna National Park) is one of Sri Lanka’s must-sees"}
+
+     ],
+     "sectionmain":[
+        {"h2":"In Udawalawe National Park"},
+        {"image":"images/leopard uda.jpg"},
+        {"para1":"Udawalawe National Park is located in the southeastern part of Sri Lanka and is known for its large population of elephants. However, the park is also home to a small but thriving population of leopards."},
+        {"para2":"While sightings are less common here than in Yala or Wilpattu, the park’s open grasslands and scrub forests make it an ideal habitat for these big cats."},
+        {"para3":" While exploring Udawalawe National Park on a safari, keep your eyes peeled for these elusive big cats as they stealthily move through the grasslands or perch on a rock outcrop,>Witnessing a leopard in action in the wild at Udawalawe National Park is a remarkable experience that offers a glimpse into the fascinating world of these elusive predators."},
+        {"para4":""}
+     ],
+
+     "sectiontwo":[
+
+        {"heading":"In Wilpattuwa National Park"},
+        {"iamge":"images/Wilpattu-National-Park-1.jpg"},
+        {"paragraphOne":"Located in the southeastern part of Sri Lanka, Yala National Park is considered to be one of the best places in the world to see leopards in the wild.Wilpattu National Park is the largest national park in Sri Lanka and is located in the northwestern part of the country."},
+        {"paragraphTwo":" This park is known for its dense forests and numerous natural lakes, which make it a popular destination for birdwatching as well as leopard spotting"},
+        {"paragprahThree":"While the leopard population in Wilpattu is smaller than in Yala, sightings are still fairly common, especially during the dry season,The park’s remote and less crowded nature adds to the sense of adventure and excitement of encountering leopards in the wild."}
+
+     ],
+     "heading":"Threats for Leopards",
+
+     "sectionThree":[
+        {"heading":"habitatLoss","image":"images/sfw_16_9_boreal-forest_1_per-breiehagen.webp"},
+        {"paragraphone":"Habitat loss for leopards is the reduction or destruction of the natural areas they live in, mainly due to human activities like deforestation and urban development. This poses a serious threat to leopard populations by limiting their living space, disrupting their natural behaviors, and making it challenging for them to find food"},
+        {"paragraphTwo":"The area of the world roamed by leopards has declined by three quarters over the last two and a half centuries, according to the most comprehensive effort yet to map the big cat, Researchers said they were shocked by the shrinking of the spotted hunter’s range, and that the decline had been far worse for several of the nine subspecies of leopards and in some parts of the world"}
+        
+     ],
+
+     "sectionfour":[
+        {"heading":"Poaching"},
+        {"image":"images/436414_orig.jpg"},
+        {"paragraph":"Leopards are a species of big cat that is native throughout most of sub-Saharan Africa, from the bushvelds of South Africa to the jungles of the Congo, and formerly resided in parts of North Africa."},
+        {"paragraphTwo":"The leopard can also be found throughout Southeast Asia, India, and select regions of the Middle East, however it is increasingly rare in the Arabian Peninsula and highlands of Iraq and Iran.Leopards are solitary animals that will hunt by using a combination of stealthy ambushes and immense strength to catch prey as much as five times its own size."}
+     ],
+
+     "lastSection":[
+        {"heading":"Sri lankan leopard Institution"},
+        {"paragraphone":"Dr. Andrew Kittle and his wife Anjali Watson together have been studying Sri-Lankan leopards since 2001 under The Leopard Project."},
+        {"paragraphTwo":"In 2004 they founded The Wilderness & Wildlife Conservation Trust (WWCT), a Sri Lankan research and conservation organization conducting island-wide studies focused on understanding the ecology and behavior of the endemic Sri Lankan leopard (Panthera pardus kotiya)."},
+        {"pragraphThree":"Both Anjali and Andrew have been members of the IUCN’s Cat Specialist Group for over a decade and are also involved with research and status assessments of Sri Lanka’s small wild cats (Fishing cat Prionailurus viverrinus; Jungle cat Felis chaus; and Rusty-spotted cat Prionailurus rubiginosus)."},
+        {"button":"https://www.wildcru.org/research/sri-lankan-leopards/" ,"type":"Learn More"}
+    ]
+    },
+
+    "footer":[
+        {"paragraph":"&copy; 2024 Srilankan WildlLife. All rights reserved."}
+    ]
+
+   
+    
+
+}

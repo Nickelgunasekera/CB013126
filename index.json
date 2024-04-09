@@ -1,0 +1,127 @@
+{
+  "Title": "Sri lankan wildlife",
+  "header": {
+    "image": "images/lolo_5-removebg-preview.png",
+    "nav": [
+      { "text": "home", "url": "index.html" },
+      { "text": "Introduction", "url": "introduction.html" },
+      { "text": "Department", "url": "department.html" },
+      { "text": "Leopard", "url": "Srileo.html" },
+      { "text": "Animals", "url": "animals.html" },
+
+      [
+        { "text": "yala Park", "url": "yala.html" },
+        { "text": "Wilpattu Park", "url": "wilpattuwa.html" }
+      ]
+    ],
+    "h1":"h1main",
+    "id":"homehead",
+    "heading": "SriLanka wildlife"
+  },
+
+  "div": {
+    "main": {
+      "pclass":"anipt",
+      "ul":"ul1",
+      "paragraph": " In Sri Lanka natural plants wrap about one-third of the land area, most parts of the country have forests as the main type of vegetation,in the wet zone ,   there are: ",
+      "orderedlist": [
+        { "content": "wet evergreen forests in low areas" },
+        { "content": "evergreen forests in high areas." }
+      ],
+      "paragraph1": [
+        {
+          "content": " Dry zone has the dry evergreen and moist caducous forests,turning into stunted plants in the driest parts. In the highest parts of central highlands ,there are few forests, and you can find grasslands mixed in."
+        },
+        { "button": "readmore"},
+        { "Url": "inntroduction.html" }
+      ]
+    }
+  },
+   "h1class":"h1",
+  "heading": "why Srilanka Becoming a notable WIldLIfe HOtsport?",
+
+  "section": {
+    "class1":"sec1",
+    "h2class":"h2",
+    "heading": "Srilanka offers The Best Big Safaris Outside Of Africa",
+    "imageclass":"n52",
+    "imageid":"n521",
+    "image": "images/Wildlife-Safari-Sri-Lanka.jpg",
+    "class": "n52",
+    "ulclass":"ul1",
+    "unorderdlist": [
+      {
+        "pclass":"anipt",
+        "paragraph": "Imagine that you are looking for a wildlife safari, then srilanka should be at the top of your memory, yala national park is home to the highest focus of  leopards in the world, that making ceylon one of the best places in the world to see larger cat breeds."
+      },
+      {
+        "pclass":"anipt",
+        "heading": "why yala national park?",
+        "ponits": [
+          {"ulclass":"ol2",
+            "point": " Leopards:  Yala is renowned for having the highest focus of leopards in the world."
+          },
+          {
+            "point": " Diverse Flora and Fauna:  Explore a rich variety of wildlife, from elephants to exotic bird species."
+          },
+          {
+            "point": "Diverse Flora and Fauna:  Explore a rich variety of wildlife, from elephants to exotic bird species."
+          }
+        ]
+      }
+    ],
+
+    "paragraph": [
+      {"pclass":"anipt",
+        "content": "Through over the most celebrated of srilanka wildlife,  elephants can be also be found in herds of up to 150 or more in udawalawa national park."
+      },
+      { "button": "Readmore", "url": "yala.html" }
+    ]
+  },
+
+  "section1": {
+    "h2class":"h2",
+    "heading": "It's The World's Top Whale Watching Destination",
+    "imgclass":"n52",
+    "alt":"whale watching",
+    "image": "images/whales-and-dolphin-watching.jpg",
+    "div": {
+      "divclass":"mk",
+      "pclass":"anipt",
+      "para1":"The 10 difference whales species found off the coast of srilanka, which draw whales watches and films crews to the teadrop isle- and its the largest animal ever found on earth,the blue whale, and biggest toothed predator in the world, sperm whale ",
+      "paragraph": {
+        "pclass":"anipt",
+        "content": " Srilanka not only offers the best chances of observing blue whales and sperm whale in the same sailing trip but also the best ever chance of encountering a super-pod of sperm whales,an incredible wildlife spectacle, a super-pod contains more than hundreds of these giants all swimming and playing together",
+        "heading": "Explore the exceptional whale-watching opportunities in Sri lanka :",
+        "unorderdlist": [
+          {"class":"ol3"},
+          {
+            "l1": "Blue Whales: Witness the majestic presence of the world's largest animal, the blue whale."
+          },
+          {
+            "l2": "Sperm Whales: Encounter the impressive sperm whales during your sailing adventure."
+          },
+          {
+            "l3": "Super-Pod Spectacle:Experience the extraordinary sight of a super-pod, where  whales  play together."
+          }
+        ]
+      }
+    }
+  },
+
+  "section3": {
+    "h2":"h2",
+    "imagecls":"n52",
+    "paragraphcls":"anipt",
+    "heading": "The Wild life is Conveniently Reacheble",
+    "image": "images/12832-indian_elephant-wilderness-wildlife-elephant-ecosystem-550x310.jpg",
+    "paragraph": " For a country of a comparatively smaller, covering less than 65 510 square kilometres, srilanka boats high number of protected areas, ceylon has a total of 26 national parks in analogy to just 15 in the UK, which is nearly four times its size.",
+    "paragraph1": "Additionally few other countries offers such good viewing  opportunities for both land and marine wildlife – and certainly not in as small an area. Whereas in other countries you may have to travel long distances between parks or to reach the coast, Sri Lanka is relatively compact.",
+    "paragraph2": " Whereas one day you might be catching a glimpse of a blue whale, the next you may be spotting elephant herds or leopards. Sri Lanka offers the opportunity to see a wide array of some of the world’s greatest wildlife all within an affordable one or two-week long itinerary"
+  },
+
+  "footer": {
+    "ftcls":"footer",
+    "paragraph": "&copy; 2024 Srilankan WildlLife. All rights reserved."
+  }
+}

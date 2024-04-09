@@ -1,0 +1,57 @@
+{
+    "head":{
+        "title":"Srilankan Wildlife",
+        "Url":"home.css",
+        "icon":"images/favicon.ico.png"
+    },
+
+    "body":{
+        "header":{
+            "logo":"images/lolo_5-removebg-preview.png","url":"index.html",
+        
+
+        "nav":{
+            "url":{
+                "home":"index.html",
+                "intro":"introduction.html",
+                "department":"department.html",
+                "srileo":"srileo.html",
+                "animals":"animals.html",
+
+                "dropdown":[
+                    {"yala":"yala.html"},
+                    {"wilpattu":"wilpattuwa.html"}
+                ]
+            }
+        },
+        "heading":"department Wildlife"
+        },
+
+        "main":{
+            "image":"images/department of wildlife.jpg",
+            "div":{
+                "paragraph":"The Department of Wildlife Conservation has been entrusted with the responsibility of preserving eco system endowed with various plants and animal species which has inherited the country with enormous bio-diversity.",
+                "paragraph1":"The main function of the Department of Wildlife Conservation established in 1949 is the conservation of wildlife resources in Sri Lanka.",
+                "paragraph3":"Accordingly, the sources of water feeding all the main revivers in Sri Lanka and catchment areas of 40 major reservoirs providing water for agriculture and hydro-power generation are protected within this wildlife reservation network which exceed 13% of the total land area of the island."
+
+            }  
+        },
+
+        "section":{
+            "heading":"Protected areas",
+            "image":"images/snr.jpg","type":"Strict Natural Reserve",
+            "image1":"images/yala d.webp","type1":"National Park",
+            "image2":"images/reverse.jpg" , "type2" : "Nature Reserve",
+            "image3":"images/jungle corridor.jpg","type3":"Jungle Corridor",
+            "image4":"images/marine.jpg", "type4":"marine reserves",
+            "image5":"images/buffer.jpg", "type5":"Buffer Zone"     
+        },
+        "heading":"Find directions through maps",
+        "iframe":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15843.782988928731!2d79.9198057!3d6.8970927!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae250aa85489b1f%3A0xd8773339b6b43dbb!2sDepartment%20of%20Wildlife%20Conservation!5e0!3m2!1sen!2slk!4v1703918490588!5m2!1sen!2slk"
+
+},
+
+        "footer":{
+            "paragraph":"&copy; 2024 Srilankan WildlLife. All rights reserved."
+        }
+}
