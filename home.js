@@ -123,8 +123,8 @@ loginbtn.addEventListener('click',function(e){
 
 })
 
-//let newbutton=document.querySelector('.newbutton');
+let newbutton=document.querySelector('.newbutton');
 
-//newbutton.addEventListener('click',function(){
-  //window.location.href='newsletter.html';
-//})
+newbutton.addEventListener('click',function(){
+window.location.href='newsletter.html';
+})
